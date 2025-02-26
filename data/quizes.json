@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "title": "JavaScript'da callback funksiyalar qanday ishlaydi?",
+    "answers": [
+      {
+        "answer_id": 1,
+        "answer_title": "Callback funksiyalar asosiy kod tugagandan keyin chaqiriladi",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2,
+        "answer_title": "Callback funksiyalar boshqa funktsiyalarga argument sifatida o'tkaziladi",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3,
+        "answer_title": "Callback funksiyalar eventlar uchun ishlatilmaydi",
+        "is_correct": false
+      },
+      {
+        "answer_id": 4,
+        "answer_title": "Callback funksiyalar faqat syncronize kodlarda ishlatiladi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "JavaScript'da callback funksiyalar qanday ishlaydi?",
+    "answers": [
+      {
+        "answer_id": 1,
+        "answer_title": "Callback funksiyalar asosiy kod tugagandan keyin chaqiriladi",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2,
+        "answer_title": "Callback funksiyalar boshqa funktsiyalarga argument sifatida o'tkaziladi",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3,
+        "answer_title": "Callback funksiyalar eventlar uchun ishlatilmaydi",
+        "is_correct": false
+      },
+      {
+        "answer_id": 4,
+        "answer_title": "Callback funksiyalar faqat syncronize kodlarda ishlatiladi",
+        "is_correct": false
+      }
+    ]
+  }
+]
